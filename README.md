@@ -1,8 +1,10 @@
-### Hi there 👋
+👋 Hi there! I'm **I-mus**, a passionate technophile who loves building solutions and learning new technologies. 🚀
 
-- Btech cse graduate
-- Python dev
-- Web development
-- Learning new things
-- ![](https://komarev.com/ghpvc/?username=i-mus&base=120&color=blueviolet)
+- 🔭 **Currently working on:** Web applications with FastAPI.
+- 🌱 **Learning:** BigQuery, Advanced FastAPI, and Frontend Optimization and Other related tools.
+- 💡 **Interests:** Python 🐍, Full-stack development, Data Engineering, and Problem Solving.
+
+### 🤝 Let's Connect
+- 💌 Feel free to [reach out](mailto:your-email@example.com)!
+- 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/yourprofile).
 
