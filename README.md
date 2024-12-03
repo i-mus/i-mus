@@ -5,6 +5,6 @@
 - 💡 **Interests:** Python 🐍, Full-stack development, Data Engineering, and Problem Solving.
 
 ### 🤝 Let's Connect
-- 💌 Feel free to [reach out](mailto:your-email@example.com)!
-- 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/yourprofile).
+- 💌 Feel free to [reach out](mailto:mushthaqpullat@gmail.com)!
+- 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/musthaq-p/).
 
